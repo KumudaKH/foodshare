@@ -105,19 +105,19 @@ FoodShare is deployed using Amazon Web Services (AWS) to make the website access
 
 The homepage introduces FoodShare and highlights its mission to reduce food waste.
 
-![FoodShare Homepage](screenshots/homepage.png)
+![FoodShare Homepage](C:\Users\KUMUDHA\OneDrive\Documents\Attachments\เอกสาร\Pictures\Screenshots)
 
 ### 2. Food Donation Page
 
 The donation page allows users to submit food donation details, including food category, quantity, pickup location and contact information.
 
-![Food Donation Page](screenshots/donation-page.png)
+![Food Donation Page](C:\Users\KUMUDHA\OneDrive\Documents\Attachments\เอกสาร\Pictures\Screenshots)
 
 ### 3. Available Food Listings
 
 Users can explore available food donations, view quantities, locations and pickup details.
 
-![Available Food Listings](screenshots/available-food.png)
+![Available Food Listings](C:\Users\KUMUDHA\OneDrive\Documents\Attachments\เอกสาร\Pictures\Screenshots)
 
 ## 🚀 Future Enhancements
 
